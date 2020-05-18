@@ -5,8 +5,8 @@ Task: Price Prediction
 
 Rank
 -----
-Public Leaderboard: 3rd Place <br />
-Private Leaderboard: 2nd Place
+Public Leaderboard: 3rd Place (RMSE: 87.3)<br />
+Private Leaderboard: 2nd Place (RMSE: 76.9)
 
 ## Note:
 - `train.ipynb` contains my work without any cleanup, which means that there are some code that is unused for the final model. But I want to keep it simply because it reflects the true process of finding the best features for model training and ddeveloping the best training method.
