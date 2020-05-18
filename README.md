@@ -5,7 +5,7 @@ Task: Price Prediction
 
 Rank
 -----
-Public Leaderboard: 3rd Place
+Public Leaderboard: 3rd Place <br />
 Private Leaderboard: 2nd Place
 
 ## Note:
